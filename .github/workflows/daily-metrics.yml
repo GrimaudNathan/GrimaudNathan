@@ -18,8 +18,8 @@ jobs:
 
           # Options
           user: GrimaudNathan
-          template: classic
-          base: header, activity, community
+          template: terminal
+          base: header, metadata, activity
           config_timezone: Europe/Paris
 
           # Language plugin
