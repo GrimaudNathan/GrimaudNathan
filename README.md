@@ -7,11 +7,6 @@
       alt="LinkedIn"
     />
   </a>
-  <img
-    width="256"
-    align="right"
-    src="https://github.com/GrimaudNathan/GrimaudNathan/blob/main/devcard.svg"
-  />
 </div>
 
 <br />
