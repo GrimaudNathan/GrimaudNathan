@@ -13,7 +13,7 @@
 
 ## I am Nathan Grimaud
 
-- Developer at [Outmind](https://www.outmind.ai/)
+- Developer at [USERADGENTS](https://www.useradgents.com/)
 - Loves good coffee ☕
 
 ![Metrics](https://github.com/GrimaudNathan/GrimaudNathan/blob/main/github-metrics.svg)
