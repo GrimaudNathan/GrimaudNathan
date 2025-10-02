@@ -13,7 +13,7 @@
 
 ## I am Nathan Grimaud
 
-- Developer at [SoyHuCe](https://soyhuce.fr/)
+- Developer at [Colibri](https://www.colibri-snop.com/fr/)
 - Loves good coffee ☕
 
 ![Metrics](https://github.com/GrimaudNathan/GrimaudNathan/blob/main/github-metrics.svg)
