@@ -13,7 +13,7 @@
 
 ## I am Nathan Grimaud
 
-- Developer at ...
+- Developer at Free Pro
 - Loves good coffee ☕
 
 ![Metrics](https://github.com/GrimaudNathan/GrimaudNathan/blob/main/github-metrics.svg)
